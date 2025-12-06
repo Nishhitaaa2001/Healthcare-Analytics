@@ -12,10 +12,6 @@ Using **Power BI, DAX Functions, and Power Query**, organizations can visualize 
 
 # Healthcare Analytics Dashboard
 
-### Dashboard Link : 
-
-**https://app.powerbi.com/groups/me/reports/6798e87c-11ef-4efd-9241-aee0799e1316/9a213e260d02260ed8b7?experience=power-bi**
-
 ## Problem Statement
 
 In the fast-paced environment of healthcare, administrators and professionals often struggle to effectively monitor and analyze critical patient metrics such as visit counts, waiting times, treatment satisfaction, and demographic distributions. This lack of comprehensive and easily accessible data can hinder the ability to make informed decisions, optimize patient flow, improve service delivery, and enhance overall patient care.

@@ -1,7 +1,6 @@
 # HealthCare-Analytics-Dashboard
 This dashboard will give Hospital Staff detail information about what is the issue and what all steps they should be taking to solve those issue with the help of Data Analytics. 
 
-
 # Project Title
 
 **A brief description of this project**
